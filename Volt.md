@@ -28,7 +28,6 @@ Example request for querying the last ten average exchange rates for Euro in jso
 
 ``` plaintext
 http://api.nbp.pl/api/exchangerates/rates/a/eur/last/10/?format=json
-
 ```
 
 | Response Parameter | Description |
